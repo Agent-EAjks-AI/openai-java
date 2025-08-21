@@ -1,5 +1,14 @@
 # Changelog
 
+## 3.1.3 (2025-08-21)
+
+Full Changelog: [v3.1.2...v3.1.3](https://github.com/openai/openai-java/compare/v3.1.2...v3.1.3)
+
+### Chores
+
+* **client:** refactor closing / shutdown ([94cdfcd](https://github.com/openai/openai-java/commit/94cdfcdf57225ee606acf51ffe3e0b6a4321f7e6))
+* **internal:** support running formatters directly ([6242da5](https://github.com/openai/openai-java/commit/6242da594134e736470c006bc1af6b38ce757705))
+
 ## 3.1.2 (2025-08-20)
 
 Full Changelog: [v3.1.1...v3.1.2](https://github.com/openai/openai-java/compare/v3.1.1...v3.1.2)
