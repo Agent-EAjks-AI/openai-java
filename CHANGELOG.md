@@ -1,5 +1,18 @@
 # Changelog
 
+## 4.16.2 (2026-01-26)
+
+Full Changelog: [v4.16.1...v4.16.2](https://github.com/openai/openai-java/compare/v4.16.1...v4.16.2)
+
+### Bug Fixes
+
+* **api:** mark assistants as deprecated ([a21625e](https://github.com/openai/openai-java/commit/a21625e3378eb635a6045e59746a62ffc846ee6f))
+
+
+### Chores
+
+* **ci:** upgrade `actions/github-script` ([ddbc5a1](https://github.com/openai/openai-java/commit/ddbc5a161dd5b1760eae9f70e149b4360f1b9203))
+
 ## 4.16.1 (2026-01-23)
 
 Full Changelog: [v4.16.0...v4.16.1](https://github.com/openai/openai-java/compare/v4.16.0...v4.16.1)
