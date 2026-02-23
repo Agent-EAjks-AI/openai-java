@@ -1,5 +1,20 @@
 # Changelog
 
+## 4.22.1 (2026-02-23)
+
+Full Changelog: [v4.22.0...v4.22.1](https://github.com/openai/openai-java/compare/v4.22.0...v4.22.1)
+
+### Chores
+
+* drop apache dependency ([37805bf](https://github.com/openai/openai-java/commit/37805bf5dad1f503cec009dfaca6c6b2b21fc279))
+* make `Properties` more resilient to `null` ([0039eb0](https://github.com/openai/openai-java/commit/0039eb008840c33d9f62d44999e4b4533a3a50d2))
+
+
+### Documentation
+
+* **api:** add batch size limit to file batch create parameters ([764fd86](https://github.com/openai/openai-java/commit/764fd868ab4d0f9642ae2facb6ca98ef3a491888))
+* **api:** clarify safety_identifier max length in chat completions and responses ([b2735b0](https://github.com/openai/openai-java/commit/b2735b002e3591513ea743062e36d6f965f1fd46))
+
 ## 4.22.0 (2026-02-19)
 
 Full Changelog: [v4.21.0...v4.22.0](https://github.com/openai/openai-java/compare/v4.21.0...v4.22.0)
