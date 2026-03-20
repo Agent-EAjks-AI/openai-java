@@ -1,5 +1,24 @@
 # Changelog
 
+## 4.29.1 (2026-03-20)
+
+Full Changelog: [v4.29.0...v4.29.1](https://github.com/openai/openai-java/compare/v4.29.0...v4.29.1)
+
+### Bug Fixes
+
+* **client:** allow updating header/query affecting fields in `toBuilder()` ([fd3b67c](https://github.com/openai/openai-java/commit/fd3b67cef9c4457506a76b9e994210e512e0181f))
+* **client:** remove redundant apiKey override ([8383a7d](https://github.com/openai/openai-java/commit/8383a7de659aa6f17e1707614f5a246ced127532))
+
+
+### Chores
+
+* **tests:** bump steady to v0.19.4 ([f0d4ba8](https://github.com/openai/openai-java/commit/f0d4ba8685e6376e72a928da9aaf2bdc9e1655e5))
+
+
+### Refactors
+
+* **tests:** switch from prism to steady ([a8cb9e8](https://github.com/openai/openai-java/commit/a8cb9e8c62c492a6aeda6fcdd6e9b09afc4f71fa))
+
 ## 4.29.0 (2026-03-17)
 
 Full Changelog: [v4.28.0...v4.29.0](https://github.com/openai/openai-java/compare/v4.28.0...v4.29.0)
